@@ -1,6 +1,9 @@
-# My DevOps Portfolio
+# DevOps Portfolio – Khawla Rouiss
 
-Welcome to my DevOps portfolio! This is a collection of projects I’ve built while learning and applying DevOps practices in real-world scenarios. Each section reflects a key area of modern DevOps workflows.
+I'm a DevOps Engineer who has built these projects hands on real pipelines, VMs, deployments. Everything here runs or has run in a working environment.
+
+The portfolio covers CI/CD across three platforms, container orchestration from Docker Compose to Kubernetes clusters, 
+full observability stacks, and secrets management with Vault.
 
 ---
 
