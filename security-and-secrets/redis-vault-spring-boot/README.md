@@ -6,6 +6,9 @@
 Spring Boot application integrated with HashiCorp Vault and Redis, where Vault securely manages credentials and TLS certificates.  
 The application retrieves secrets at runtime using AppRole authentication and connects to Redis over TLS.
 
+### Architecture
+![Architecture](https://raw.githubusercontent.com/rouisskhawla/redis-vault-spring-boot/main/docs/screenshots/architecture.png)
+
 **Key Highlights:**  
 - Centralized secrets management using HashiCorp Vault  
 - Secure Redis communication with TLS certificates  
