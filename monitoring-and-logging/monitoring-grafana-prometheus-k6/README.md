@@ -1,5 +1,11 @@
 # Monitoring Stack: Grafana, Prometheus & k6
 
+### Grafana Dashboard
+![Grafana Dashboard](https://raw.githubusercontent.com/rouisskhawla/monitoring-grafana-prometheus-k6/main/docs/k6-dashboard.png)
+
+### k6 Load Test Run
+![k6 Run](https://raw.githubusercontent.com/rouisskhawla/monitoring-grafana-prometheus-k6/main/docs/k6-run.png)
+
 **Skills:** Prometheus, Grafana, k6, InfluxDB, Docker, Observability
 
 **Overview:**  
