@@ -47,8 +47,9 @@ A collection of DevOps scripts and smaller experiments I built to automate tasks
 
 ---
 
-## Spring Boot Elasticsearch
+## Backend Projects
 
-**Elasticsearch File Upload Service** – Spring Boot application for uploading and storing files in **Elasticsearch**. This project demonstrates robust backend development practices with **DevOps-friendly design principles** for maintainable and reliable deployments.
+Spring Boot applications demonstrating backend development 
+with DevOps-friendly design.
 
-[Explore Project →](springboot-elasticsearch-files/README.md)
+[Explore Projects →](springboot-elasticsearch-files/README.md)
