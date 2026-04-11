@@ -41,129 +41,124 @@ CI/CD Automation • Kubernetes • Docker • Observability • Infrastructure 
 
 ---
 
-## 🔁 CI/CD & Automation
+## CI/CD & Automation
 
-<p align="center">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat"/>
-<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat"/>
-</p>
+Projects showcasing automated pipelines for building, testing, and deploying applications using Jenkins, GitHub Actions, and GitLab CI.
 
 <details>
-<summary><b>View CI/CD Projects</b></summary>
+<summary> CI/CD Projects </summary>
+<div align="center">
 
--  **devops-ci-cd-pipeline-jenkins**  
-  Jenkins • SonarQube • Nexus • Docker • staging VM  
+| Project | Platform | Highlights |
+|---|---|---|
+| devops-ci-cd-pipeline-jenkins | Jenkins | SonarQube, Nexus, Docker, staging VM |
+| devops-ci-cd-pipeline-github-actions | GitHub Actions | Semantic versioning, multi-env, Slack |
+| devops-ci-cd-pipeline-gitlab-ci | GitLab CI | Docker + Shell runners, staging deploy |
 
--  **devops-ci-cd-pipeline-github-actions**  
-  Multi-env pipelines • Semantic versioning • Notifications  
-
--  **devops-ci-cd-pipeline-gitlab-ci**  
-  Docker • GitLab runners • staging deployment  
-
+</div>
 </details>
 
-[Explore CI/CD →](ci-cd-pipelines/README.md)
+[Explore CI/CD Projects →](ci-cd-pipelines/README.md)
 
 ---
 
-## 🐳 Containerization & Kubernetes
+## Containerization & Kubernetes
 
-<p align="center">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=flat"/>
-</p>
+Projects demonstrating Docker-based microservices, Kubernetes deployments, and Helm charts for orchestration.
 
 <details>
-<summary><b>View Kubernetes & Docker Projects</b></summary>
+<summary> Containerization & Kubernetes Projects </summary>
+<div align="center">
+  
+| Project | Platform | Highlights |
+|---|---|---|
+| microservices-devops-monorepo | Docker, Monorepo | Microservices, Docker GitHub Actions, Nginx, self-signed certificates | 
+| docker-microservices | Docker Swarm | Multi-repo microservices, Docker Swarm, Eureka, GitHub Actions, Swagger, Nginx, HTTPS, DNS | 
+| kubernetes-helm-deployment | Kubernetes, Helm | Jenkins, Branch-driven CI/CD, versioning, Helm charts, Kubernetes |
+| k8s-minikube-vs-cluster | Kubernetes, minikube | Jenkins, Minikube, Kubernetes cluster, versioning, manifest, GitHub webhook |
 
--  **microservices-devops-monorepo**  
-  Docker • Microservices • Nginx • CI/CD pipelines  
-
--  **docker-microservices**  
-  Docker Swarm • Eureka • HTTPS • Service discovery  
-
--  **kubernetes-helm-deployment**  
-  Helm • Jenkins • Kubernetes • CI/CD integration  
-
--  **k8s-minikube-vs-cluster**  
-  Minikube vs production cluster deployment  
-
+</div>
 </details>
 
-[Explore Kubernetes →](containerization-and-kubernetes/README.md)
+[Explore Containerization Projects →](containerization-and-kubernetes/README.md)
 
 ---
 
-## 📊 Observability & Monitoring
+## Monitoring & Logging
 
-<p align="center">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat"/>
-<img src="https://img.shields.io/badge/k6-7D64FF?style=flat"/>
-</p>
+Projects highlighting system monitoring, load testing, and log management with Grafana, Prometheus, ELK Stack, and k6.
 
 <details>
-<summary><b>View Monitoring Projects</b></summary>
+<summary> Monitoring & Logging Projects </summary>
+<div align="center">
+  
+| Project | Platform | Highlights |
+|---|---|---|
+| monitoring-grafana-prometheus-k6 | prometheus, grafana, k6 | Metrics collection, Dashboarding, Load and performance testing, system performance monitoring |
+| elk-monitoring-stack |  ELK Stack (Elasticsearch, Logstash, Kibana), spring boot  | Centralized logging, Dashbording|
 
--  **monitoring-grafana-prometheus-k6**  
-  Metrics • Dashboards • Load testing • Observability pipelines  
-
--  **elk-monitoring-stack**  
-  Elasticsearch • Logstash • Kibana • Centralized logging  
-
+</div>
 </details>
 
-[Explore Monitoring →](monitoring-and-logging/README.md)
+[Explore Monitoring Projects →](monitoring-and-logging/README.md)
 
 ---
 
-## 🔐 Security & Secrets
+## Security & Secrets
 
-<p align="center">
-<img src="https://img.shields.io/badge/Vault-FFEC6E?style=flat"/>
-<img src="https://img.shields.io/badge/Redis-FF4438?style=flat"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat"/>
-</p>
+Projects focused on secure secrets management, Vault integration, TLS-enabled Redis, and best practices for application security.
 
 <details>
-<summary><b>View Security Projects</b></summary>
+<summary> Security & Secrets Projects </summary>
+<div align="center">
 
--  **redis-vault-spring-boot**  
-  Vault • TLS Redis • Spring Boot • Secure configuration  
+| Project | Platform | Highlights |
+|---|---|---|
+| redis-vault-spring-boot | redis, vault, spring boot | secrets management, TLS, scripting |
 
+</div>
 </details>
 
-[Explore Security →](security-and-secrets/README.md)
+[Explore Projects →](security-and-secrets/README.md)
 
 ---
 
-## ⚙️ Automation & Utilities
+## Scripts & Experiments
+
+A collection of DevOps scripts and smaller experiments I built to automate tasks and explore new technologies.
 
 <details>
-<summary><b>View Scripts & Tools</b></summary>
+<summary> Scripts & Experiments Projects </summary>
+<div align="center">
 
--  **devops-scripts**  
-  Bash automation • Docker utilities • Monitoring scripts  
+| Project | Platform | Highlights |
+|---|---|---|
+| devops-scripts | Bash, Docker | Automation, Monitoring |
 
+</div>
 </details>
 
-[Explore Tools →](scripts-and-experiments/README.md)
+[Explore Projects →](scripts-and-experiments/README.md)
 
 ---
 
-## 🧩 Backend Systems
+## Backend Projects
+
+Spring Boot applications demonstrating backend development 
+with DevOps-friendly design.
 
 <details>
-<summary><b>View Backend Projects</b></summary>
+<summary> Backend Projects </summary>
+<div align="center">
 
--  **springboot-elasticsearch-files**  
-  Spring Boot • Elasticsearch • Docker • REST APIs  
+| Project | Platform | Highlights |
+|---|---|---|
+| springboot-elasticsearch-files | Spring Boot, Elasticsearch, Docker | REST API, TLS/SSL, Unit testing, GitHub Actions |
 
+</div>
 </details>
 
-[Explore Backend →](springboot-elasticsearch-files/README.md)
+[Explore Projects →](springboot-elasticsearch-files/README.md)
 
 ---
 
