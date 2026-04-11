@@ -52,13 +52,13 @@ CI/CD Automation • Kubernetes • Docker • Observability • Infrastructure 
 <details>
 <summary><b>View CI/CD Projects</b></summary>
 
-- ⚙️ **devops-ci-cd-pipeline-jenkins**  
+-  **devops-ci-cd-pipeline-jenkins**  
   Jenkins • SonarQube • Nexus • Docker • staging VM  
 
-- ⚙️ **devops-ci-cd-pipeline-github-actions**  
+-  **devops-ci-cd-pipeline-github-actions**  
   Multi-env pipelines • Semantic versioning • Notifications  
 
-- ⚙️ **devops-ci-cd-pipeline-gitlab-ci**  
+-  **devops-ci-cd-pipeline-gitlab-ci**  
   Docker • GitLab runners • staging deployment  
 
 </details>
@@ -78,16 +78,16 @@ CI/CD Automation • Kubernetes • Docker • Observability • Infrastructure 
 <details>
 <summary><b>View Kubernetes & Docker Projects</b></summary>
 
-- ☸️ **microservices-devops-monorepo**  
+-  **microservices-devops-monorepo**  
   Docker • Microservices • Nginx • CI/CD pipelines  
 
-- ☸️ **docker-microservices**  
+-  **docker-microservices**  
   Docker Swarm • Eureka • HTTPS • Service discovery  
 
-- ☸️ **kubernetes-helm-deployment**  
+-  **kubernetes-helm-deployment**  
   Helm • Jenkins • Kubernetes • CI/CD integration  
 
-- ☸️ **k8s-minikube-vs-cluster**  
+-  **k8s-minikube-vs-cluster**  
   Minikube vs production cluster deployment  
 
 </details>
@@ -107,10 +107,10 @@ CI/CD Automation • Kubernetes • Docker • Observability • Infrastructure 
 <details>
 <summary><b>View Monitoring Projects</b></summary>
 
-- 📊 **monitoring-grafana-prometheus-k6**  
+-  **monitoring-grafana-prometheus-k6**  
   Metrics • Dashboards • Load testing • Observability pipelines  
 
-- 📊 **elk-monitoring-stack**  
+-  **elk-monitoring-stack**  
   Elasticsearch • Logstash • Kibana • Centralized logging  
 
 </details>
@@ -130,7 +130,7 @@ CI/CD Automation • Kubernetes • Docker • Observability • Infrastructure 
 <details>
 <summary><b>View Security Projects</b></summary>
 
-- 🔐 **redis-vault-spring-boot**  
+-  **redis-vault-spring-boot**  
   Vault • TLS Redis • Spring Boot • Secure configuration  
 
 </details>
@@ -144,7 +144,7 @@ CI/CD Automation • Kubernetes • Docker • Observability • Infrastructure 
 <details>
 <summary><b>View Scripts & Tools</b></summary>
 
-- ⚙️ **devops-scripts**  
+-  **devops-scripts**  
   Bash automation • Docker utilities • Monitoring scripts  
 
 </details>
@@ -158,7 +158,7 @@ CI/CD Automation • Kubernetes • Docker • Observability • Infrastructure 
 <details>
 <summary><b>View Backend Projects</b></summary>
 
-- 🧩 **springboot-elasticsearch-files**  
+-  **springboot-elasticsearch-files**  
   Spring Boot • Elasticsearch • Docker • REST APIs  
 
 </details>
@@ -170,7 +170,7 @@ CI/CD Automation • Kubernetes • Docker • Observability • Infrastructure 
 ## 🚀 Featured Work
 
 <p align="center">
-<b>Production-grade DevOps systems built for real-world workflows</b>
+<b>Production grade DevOps systems built for real world workflows</b>
 </p>
 
 ---
