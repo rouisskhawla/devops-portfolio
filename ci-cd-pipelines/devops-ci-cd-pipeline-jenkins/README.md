@@ -5,6 +5,12 @@
 **Overview:**  
 A complete CI/CD pipeline for a Spring Boot application. Automates build, test, code quality, packaging, Docker image creation, and deployment to a staging environment.
 
+**Architecture:**  
+<p align="center">
+  <img src="../docs/architecture.png" alt="CI/CD Pipeline Architecture" width="100%">
+</p>
+
+
 **Key Highlights:**  
 - Jenkinsfile defines all pipeline stages and credentials  
 - Maven unit tests and SonarQube analysis  

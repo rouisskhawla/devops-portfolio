@@ -6,6 +6,11 @@
 Monorepo for a microservices application with CI/CD via Jenkins and Helm-based Kubernetes deployments.  
 Each service (backend, frontend, API Gateway) has its own Dockerfile, Jenkinsfile, and Helm chart.
 
+### Architecture Overview
+
+![Architecture](../docs/architecture.png)
+
+
 ### Jenkins Pipeline
 ![Jenkins Dashboard](https://raw.githubusercontent.com/rouisskhawla/kubernetes-helm-deployment/main/docs/screenshots/jenkins-dashboard.png)
 
